@@ -1,0 +1,155 @@
+@media only screen and (min-width: 768px) {
+  .why-grytt {
+    text-align: center; }
+  .testimonials {
+    padding: 100px 0; }
+  .testimonial-carousel .slick-dots {
+    margin-top: 60px; }
+  .partner-meta {
+    padding: 100px 0; }
+  /**About Page**/
+  .about-page p br {
+    display: none; }
+  .mission-meta {
+    width: 100%; } }
+
+@media only screen and (max-width: 480px) {
+  header {
+    display: none; }
+  .responsive-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+  .hero-meta {
+    text-align: center; }
+    .hero-meta p br {
+      display: none; }
+    .hero-meta p {
+      margin: 0 auto;
+      text-align: center;
+      width: 90%; }
+  .heading-style {
+    padding-bottom: 40px; }
+  .grytt-product {
+    margin-bottom: 50px; }
+    .grytt-product h2 {
+      text-align: center; }
+  .our-features {
+    padding-top: 50px; }
+  .why-grytt {
+    padding: 0;
+    text-align: center;
+    padding-bottom: 35px; }
+  .feature .feature-meta {
+    width: 100%;
+    top: 0;
+    -moz-transform: translate(0, 0);
+    -o-transform: translate(0px, 0);
+    -ms-transform: translate(0px, 0);
+    -webkit-transform: translate(0px, 0);
+    transform: translate(0px, 0); }
+  .feature-meta h2 br {
+    display: none; }
+  .feature-meta p br {
+    display: none; }
+  .testimonials {
+    padding: 70px 0; }
+  .review-slide blockquote {
+    font-size: 28px;
+    line-height: 33px;
+    margin: 0; }
+  .review-slide h5 {
+    padding-top: 35px; }
+  .testimonial-carousel .slick-dots {
+    margin-top: 45px; }
+  .partner-meta {
+    padding: 154px 0; }
+  .widget .textbox {
+    width: 60%; }
+  .widget .theme-btn {
+    width: 35%; }
+  .copyright {
+    padding-top: 55px;
+    text-align: center;
+    display: inline-block; }
+    .copyright a {
+      width: 100%; }
+    .copyright p br {
+      display: block; }
+  /** ABout Page **/
+  .about-page {
+    padding-bottom: 50px; }
+  .about-page p br {
+    display: none; }
+  .our-mission {
+    padding: 160px 0; }
+  .mission-meta {
+    width: 100%; }
+  .web-links a {
+    margin-bottom: 28px; }
+  .web-links .last a {
+    margin-bottom: 0; }
+  .terms-page {
+    padding: 40px 0; }
+  /** Partner Program **/
+  .hero-meta h2 br {
+    display: none; }
+  .how-works-list {
+    text-align: center;
+    padding: 30px 10px; }
+    .how-works-list h4 {
+      padding-bottom: 20px; }
+    .how-works-list h4 br {
+      display: none; }
+    .how-works-list .show-on-mobile {
+      display: inline-block;
+      margin-bottom: 20px; }
+    .how-works-list li img {
+      display: none; }
+    .how-works-list ul li span {
+      padding-left: 0;
+      display: inline-block;
+      width: 100%; }
+  .earn-more {
+    padding: 80px 0; }
+  .earning-steps {
+    padding-bottom: 30px; }
+    .earning-steps span:after {
+      display: none; }
+  .retail-heading h4.desc br {
+    display: none; }
+  .retail-info {
+    padding-bottom: 70px; }
+    .retail-info ul.right {
+      padding-top: 35px;
+      display: inilne-block; }
+    .retail-info ul.right li {
+      margin: 0; }
+    .retail-info ul.left {
+      display: inline-block; }
+    .retail-info ul.left li {
+      margin: 0; }
+  .fancy-list {
+    padding-bottom: 0; }
+  .fancy-posts .hide-on-desktop {
+    display: block; }
+  .fancy-posts .hide-on-mobile {
+    display: none; }
+  .fancy-posts .image-left {
+    padding-left: 20px;
+    padding-bottom: 30px; }
+  .fancy-posts .image-right {
+    padding: 0px 20px 30px 20px; }
+  .partner-program {
+    margin: 0; }
+  .partner-meta {
+    padding: 60px 0; }
+    .partner-meta h2 br {
+      display: none; }
+  .faq-section {
+    padding: 50px 0; }
+  .contact-strip {
+    margin-bottom: 112px;
+    text-align: center; }
+    .contact-strip a.theme-btn {
+      float: none; } }
